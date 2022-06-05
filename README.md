@@ -12,6 +12,9 @@
 ## 注意
 1. 本程序目前只支持1920x1080的素材，我有改进的打算，但是素材越高清效果应该越好。
 
+## 笔记
+2. [第二部分](https://github.com/HanwenJin16/tangkeke_temptation/blob/main/p2.ipynb)
+
 
 
 
