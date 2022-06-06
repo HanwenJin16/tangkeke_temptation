@@ -14,6 +14,8 @@
 
 ## 笔记
 2. [第二部分](https://github.com/HanwenJin16/tangkeke_temptation/blob/main/p2.ipynb)
+3. [第三部分](https://github.com/HanwenJin16/tangkeke_temptation/blob/main/p3.ipynb)
+4. [第四部分](https://github.com/HanwenJin16/tangkeke_temptation/blob/main/p4.ipynb)
 
 
 
